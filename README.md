@@ -11,7 +11,7 @@ Nexa is a comprehensive full-stack solution designed for efficient data manageme
 ## Technologies Used
 * Frontend: React, JavaScript, CSS
 * Backend: Node.js, Express
-* Database: (Insert Database Type)
+* Database: mySQL
 
 ## Project Structure
 nexa-project/
@@ -40,7 +40,7 @@ nexa-project/
 ## Visual Interface
 The Nexa dashboard provides a clean interface for visualizing system metrics and operational data.
 
-![Dashboard Overview]
+#Dashboard Overview
 ### Authentication
 <img width="1872" height="1170" alt="Login" src="https://github.com/user-attachments/assets/9a43c81a-e208-40ff-a13f-4c0a217a5915" />
 
