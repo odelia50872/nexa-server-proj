@@ -40,7 +40,7 @@ nexa-project/
 ## Visual Interface
 The Nexa dashboard provides a clean interface for visualizing system metrics and operational data.
 
-#Dashboard Overview
+## Dashboard Overview
 ### Authentication
 <img width="1872" height="1170" alt="Login" src="https://github.com/user-attachments/assets/9a43c81a-e208-40ff-a13f-4c0a217a5915" />
 
@@ -55,8 +55,6 @@ The Nexa dashboard provides a clean interface for visualizing system metrics and
 ### Posts & Comments
 <img width="1394" height="810" alt="Posts" src="https://github.com/user-attachments/assets/a5ac92c7-679e-4bba-9465-eed20d6f7295" />
 
-### Albums & Photos
-<img width="1872" height="894" alt="Albums" src="https://github.com/user-attachments/assets/b2964ef9-fd3a-4ce8-a57f-50ba52b39e0d" />
 
 
 
